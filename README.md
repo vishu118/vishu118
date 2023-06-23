@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Bishal Kumar, a frontend-end  developer  from India. <br>Currently learning React.JS and love to work on javaScript.
+Hi, I am Bishal Kumar, a aspiring frontend-end  developer. <br>Currently learning React.JS and love to work on javaScript.
 
 
 ## 🌐 Socials:
