@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi, I am Bishal Kumar, a aspiring frontend-end  developer. <br>Currently learning React.JS and love to work on javaScript.
 
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imvishal_k01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bishal-kumar-40409115b) 
 
 # 💻 Tech Stack:
